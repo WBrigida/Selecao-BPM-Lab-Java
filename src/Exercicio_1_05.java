@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercico_1_05 {
+public class Exercicio_1_05 {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
