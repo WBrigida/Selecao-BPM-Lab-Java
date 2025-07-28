@@ -55,8 +55,8 @@ Você pode executar os códigos Java deste repositório de duas formas: pelo [te
 1. **Clone o repositório**	
 
 	```bash
-	git clone https://github.com/WBrigida/Seleção_BPM_Lab_java.git
-	cd Seleção_BPM_Lab_java
+	git clone https://github.com/WBrigida/Seleção-BPM-Lab-java.git
+	cd Seleção-BPM-Lab-java
 	```
 
 2. **Abra o IntelliJ IDEA**
@@ -85,8 +85,8 @@ Você pode verificar com:
 2. **Clone o repositório**	
 
 	```bash
-	git clone //github.com/WBrigida/Seleção_BPM_Lab_java.git
-	cd Seleção_BPM_Lab_java
+	git clone //github.com/WBrigida/Seleção-BPM-Lab-java.git
+	cd Seleção-BPM-Lab-java
 	```
 
 3. **Compile o arquivo desejado**  
